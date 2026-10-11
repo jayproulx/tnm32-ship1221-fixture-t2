@@ -1,6 +1,6 @@
 # Trivial fixture work item
 
-**Status**: Not Started
+**Status**: In Progress
 
 ## What & Why
 

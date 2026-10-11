@@ -1,6 +1,6 @@
 # Trivial fixture work item
 
-**Status**: in-progress
+**Status**: Complete
 
 ## What & Why
 

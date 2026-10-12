@@ -1,6 +1,6 @@
 # Add a farewell file
 
-**Status**: In Progress
+**Status**: Complete
 
 ## What & Why
 

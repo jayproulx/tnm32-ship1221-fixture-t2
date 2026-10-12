@@ -1,6 +1,6 @@
 # Add a greeting file
 
-**Status**: In Progress
+**Status**: Complete
 
 ## What & Why
 

@@ -1,6 +1,6 @@
 # Add a welcome file
 
-**Status**: Not Started
+**Status**: In Progress
 
 ## What & Why
 

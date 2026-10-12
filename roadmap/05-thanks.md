@@ -1,6 +1,6 @@
 # Add a thanks file
 
-**Status**: In Progress
+**Status**: Complete
 
 ## What & Why
 
